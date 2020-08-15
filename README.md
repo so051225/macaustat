@@ -19,14 +19,8 @@
 |2019|88|
 |2020|91|
 
-由回歸前每個薪俸點50元增加至目前的59元（2008年1月1日起由55元增加至59元）
-[行政法務範疇](https://www.gov.mo/zh-hant/wp-content/uploads/sites/4/2017/11/cn2009_aj.doc)
-[法務局](https://bo.io.gov.mo/bo/i/2005/15/lei01_cn.asp)
-https://books.google.com/books?id=zpMeBAAAQBAJ&pg=PA208&lpg=PA208&dq=%E6%BE%B3%E9%96%80%E6%94%BF%E5%BA%9C%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E8%96%AA%E4%BF%B8%E9%BB%9E55%E5%85%83&source=bl&ots=DNdgb8UKSV&sig=ACfU3U1nYviPKtJVqgrwmT6UihmhT2QDJQ&hl=en&sa=X&ved=2ahUKEwj16c-Ur53rAhUuE6YKHZuCCQoQ6AEwEnoECAoQAQ#v=onepage&q=%E6%BE%B3%E9%96%80%E6%94%BF%E5%BA%9C%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E8%96%AA%E4%BF%B8%E9%BB%9E55%E5%85%83&f=false
-
-(*) 2013.5 即是五月生效
-數據由網絡收集。
-
-人民網澳門1月6日電 記者曾坤報道：昨天，澳門立法會全體會議再次一般性通過《調整公共行政工作人員薪俸、退休金、撫恤金》法案。根據這個法案，從今年1月1日起，澳門公務員薪酬將再調升4．76%，即每一薪俸點由52．5元調升至55元。這是繼2005年1月1日公務員的薪酬由原來薪俸點50元調升至52．5元之后又一次提升公務員工資。
-
-　　特區政府行政法務司司長陳麗敏在引介該法案時稱，目前，澳門經濟持續增長，綜合考慮各項經濟及社會因素后，為配合澳門社會的薪酬變化趨勢，特區政府向立法會提交了《調整公共行政工作人員的薪俸、退休金及撫恤金》法案。陳麗敏估計涉及的公共開支將增加3．45億澳門元，符合行政長官在發表2007年度施政報?時所承諾的調升幅度，從政府財政運作上分析此增幅是合理和穩健的。
+* 數據由網絡收集
+* 2013.5 即是二零一三年五月生效
+* [行政法務範疇](https://www.gov.mo/zh-hant/wp-content/uploads/sites/4/2017/11/cn2009_aj.doc)
+* [法務局](https://bo.io.gov.mo/bo/i/2005/15/lei01_cn.asp)
+* [澳門公務員制度 By 黃湛利](https://books.google.com/books?id=zpMeBAAAQBAJ&pg=PA208&lpg=PA208&dq=%E6%BE%B3%E9%96%80%E6%94%BF%E5%BA%9C%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E8%96%AA%E4%BF%B8%E9%BB%9E55%E5%85%83&source=bl&ots=DNdgb8UKSV&sig=ACfU3U1nYviPKtJVqgrwmT6UihmhT2QDJQ&hl=en&sa=X&ved=2ahUKEwj16c-Ur53rAhUuE6YKHZuCCQoQ6AEwEnoECAoQAQ#v=onepage&q=%E6%BE%B3%E9%96%80%E6%94%BF%E5%BA%9C%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E8%96%AA%E4%BF%B8%E9%BB%9E55%E5%85%83&f=false)
